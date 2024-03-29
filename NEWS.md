@@ -1,3 +1,8 @@
+# timeless 0.2.0
+
+* made all functions "timezone free"
+* added to_tz parameter for timezone conversion #14
+
 # timeless 0.1.0
 
 * implemented `chronos()` as general purpose parser
