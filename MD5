@@ -1,7 +1,7 @@
-5e31ea830a2a11a58b85611978659979 *DESCRIPTION
+a17168290db3201f57e7b28ec299d07b *DESCRIPTION
 4fb8f8da25f17fba61e6989ccba7858c *LICENSE
 34c7733e01902094051ba395273303cf *NAMESPACE
-081503cdcdb80f58ffa42e04433b0f15 *NEWS.md
+057fd9feb2f952265493581bbf718187 *NEWS.md
 3cf1d565349637b59d717d75476ddc90 *R/chronos.R
 c16a7e93a97d913a43f464a5d510e815 *R/data.R
 ac339980ee82bda8ce97251c0abcca7e *R/extendr-wrappers.R
@@ -16,12 +16,12 @@ ef668119f463704e9d769f2eb292c5de *man/parse_date.Rd
 833eb6e24d2ad9e7bf6ccee1df0243a6 *man/parse_datetime.Rd
 46a5506d7fdda3cb3c1d56916a90b2c4 *man/parse_epoch.Rd
 278f805534e5f77cfa9afb997fc1e63e *man/timeless-package.Rd
-d6aff0bfcafedc0acd13e2dc9984a4a3 *src/Makevars
+8d60da1d2fa4713bb60b25a3500e5424 *src/Makevars
 27957123fba16c05c53a66e68b0f3482 *src/Makevars.ucrt
-f68acbd5ef22db33baef1ee99ef6839f *src/Makevars.win
+6936be2d792c17db290280ad8bae0a5c *src/Makevars.win
 4a41c24c8f0db97e2add7a7cd83600ad *src/entrypoint.c
-5098ef11b4958cd1e0d30ce111499388 *src/rust/Cargo.lock
-819babda84873abd8fb0d94db7299961 *src/rust/Cargo.toml
+e69a92654ad4bcd1630c52c0e580095d *src/rust/Cargo.lock
+dd4a46e51e793eceecb63736c5eb320a *src/rust/Cargo.toml
 a895fbfd0efa897091a0c48400d095db *src/rust/src/lib.rs
 73c8f3cd924fa9a6538be5bd9ebf1201 *src/timeless-win.def
 2752f22f250cc644587a0d9024fa51fd *tests/testthat.R
