@@ -1,6 +1,6 @@
 Package: timeless
 Title: Fast General Purpose Date/Time Converter
-Version: 0.2.2
+Version: 0.2.3
 Authors@R: 
     c(person("David", "Schoch", , "david@schochastics.net", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-2952-4812")),
@@ -16,14 +16,15 @@ URL: https://github.com/schochastics/timeless,
 BugReports: https://github.com/schochastics/timeless/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.3.0
-Config/rextendr/version: 0.3.1
+RoxygenNote: 7.3.1
+Config/rextendr/version: 0.3.1.9000
 Depends: R (>= 3.6)
 LazyData: true
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
+SystemRequirements: Cargo (Rust's package manager), rustc
 NeedsCompilation: yes
-Packaged: 2024-07-02 13:21:19 UTC; david
+Packaged: 2024-07-04 17:32:37 UTC; david
 Author: David Schoch [aut, cre] (<https://orcid.org/0000-0003-2952-4812>),
   Rollie Ma [ctb, cph] (author of dateparser :
     <https://github.com/waltzofpearls/dateparser>),
@@ -39,4 +40,4 @@ Author: David Schoch [aut, cre] (<https://orcid.org/0000-0003-2952-4812>),
     <https://github.com/chronotope/chrono>)
 Maintainer: David Schoch <david@schochastics.net>
 Repository: CRAN
-Date/Publication: 2024-07-02 14:30:02 UTC
+Date/Publication: 2024-07-04 22:50:02 UTC
